@@ -1,0 +1,10 @@
+.red {
+    color: red;
+    margin-top: 50px;
+}
+
+.yellow {
+    background-color: yellow;
+    margin-top: 50px;
+    padding: 20px;
+}

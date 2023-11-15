@@ -1,0 +1,21 @@
+.red {
+    color: red;
+    font-weight: bold;
+}
+
+.img {
+    margin: 5% 35%;
+}
+
+.head {
+    text-align: center;
+    font-size: 50px;
+}
+
+.bg {
+    margin: 3%;
+}
+
+.foot {
+    font-size: 20px;
+}

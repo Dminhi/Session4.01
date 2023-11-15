@@ -1,0 +1,23 @@
+.head {
+    text-align: center;
+    margin-top: 10%;
+    color: white;
+    font-size: 40px;
+}
+
+.body {
+    text-align: center;
+    margin-top: 5%;
+    color: white;
+    font-size: 20px;
+}
+
+.foot {
+    text-align: center;
+    margin: 10% 30% 5% 30%;
+    color: white;
+    font-size: 25px;
+    border: 1;
+    height: 50px;
+    background-color: orangered;
+}
